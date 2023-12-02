@@ -1,3 +1,4 @@
-console.log("oi");
+let nome = "Felipe";
+console.log(nome);
 
 
